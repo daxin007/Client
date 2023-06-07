@@ -25,6 +25,21 @@ bash ./scripts/ECL_script/Client.sh
 
 5. The origin experimental results of mask series are shown in 'mask_result.csv', and the origin experimental results of LTSF are shown in 'result_of_Client.txt'.
 
+## Citation
+
+If you find our repo useful, please cite our paper:
+
+```
+@misc{gao2023client,
+      title={Client: Cross-variable Linear Integrated Enhanced Transformer for Multivariate Long-Term Time Series Forecasting}, 
+      author={Jiaxin Gao and Wenbo Hu and Yuntian Chen},
+      year={2023},
+      eprint={2305.18838},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
 ## Acknowledgement
 
 We appreciate the following repos for their valuable code base or datasets:
